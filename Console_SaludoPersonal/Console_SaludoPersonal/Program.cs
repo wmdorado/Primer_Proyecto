@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Console_PrimerProyecto
+namespace Console_SaludoPersonal
 {
     class Program
     {
